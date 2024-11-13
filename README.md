@@ -135,6 +135,7 @@ While synthetic data was used due to NDAs, the following measures ensure relevan
     </figcaption>
   </figure>
 </div>
+
 ### 6.1 Overall Statistical Significance
 The one-way ANOVA revealed highly significant differences among the charging algorithms (p = 0.0000), indicating that charging performance varies meaningfully across different algorithms.
 
