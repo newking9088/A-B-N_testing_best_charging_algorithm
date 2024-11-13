@@ -131,6 +131,7 @@ While synthetic data was used due to NDAs, the following measures ensure relevan
   <figure>
     <img src="https://raw.githubusercontent.com/newking9088/A-B-N_testing_best_charging_algorithm/main/ab.png" alt="Battery Charging Algorithm Performance Analysis" width="900">
     <figcaption>
+
 <strong>Figure 1:</strong> Comprehensive analysis of battery charging algorithms showing: (A) Box plot distribution of charging times across algorithms with ANOVA significance, (B) Mean differences compared to CCCV with 95% confidence intervals, (C) Pairwise comparison p-values with Bonferroni correction, and (D) Cohen's d effect sizes for all algorithm combinations.
     </figcaption>
   </figure>
