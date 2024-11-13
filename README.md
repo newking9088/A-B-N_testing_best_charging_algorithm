@@ -52,7 +52,10 @@ This calculation yielded 21 samples per group, ensuring adequate power to detect
 
 #### 2.2.2 Control Measures
 To ensure reliability in real experiments:
-- All batteries from same production batch
+- All batteries from the same production batch
+- Identical charging platform
+- Identical software and hardware version
+- Identical platform calibration
 - Controlled temperature (25°C ±2°C)
 - Standardized initial conditions
 - Multiple measurements per battery
