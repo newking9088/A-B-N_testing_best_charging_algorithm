@@ -187,11 +187,11 @@ d = (M₁ - M₂) / sp
 where:
 sp = √[(s₁² + s₂²) / 2]
 
-M₁ = Mean of group 1 (treatment)
-M₂ = Mean of group 2 (control)
-s₁ = Standard deviation of group 1
-s₂ = Standard deviation of group 2
-sp = Pooled standard deviation
+- M₁ = Mean of group 1 (treatment)
+- M₂ = Mean of group 2 (control)
+- s₁ = Standard deviation of group 1
+- s₂ = Standard deviation of group 2
+- sp = Pooled standard deviation
 
 Cohen's d Categories:
 | Effect Size | d Value |
