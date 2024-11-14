@@ -150,11 +150,11 @@ In SuperShop's checkout timer test, the null hypothesis (H₀) assumes there's n
 n (per group) = 2(Zα + Zβ)² × [p(1-p)] / δ²
 
 where:
-n = required sample size per group
-Zα = Z-score for significance level (1.96 for α = 0.05)
-Zβ = Z-score for power (0.84 for β = 0.20, or 80% power)
-p = expected baseline conversion rate
-δ = minimum detectable effect (expected difference)
+- n = required sample size per group
+- Zα = Z-score for significance level (1.96 for α = 0.05)
+- Zβ = Z-score for power (0.84 for β = 0.20, or 80% power)
+- p = expected baseline conversion rate (here p(1-p) signifies the population variance)
+- δ = minimum detectable effect (expected difference)
 
 ### 5.2 Running the Experiment
 - Data Collection Methods:
